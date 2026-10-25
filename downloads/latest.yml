@@ -1,0 +1,8 @@
+version: 1.10.8
+files:
+  - url: https://github.com/gstvgms/samba-releases/releases/download/v1.10.8/Samba-Setup-1.10.8.exe
+    sha512: hj+CWE3K2pGzCazGuSY53z9exqAVIohOVS0Ecc1e0QJB69h+h0iNCOZiWs4dC33AAzDEV6xyoHZbGoRf8/AFEw==
+    size: 162249180
+path: https://github.com/gstvgms/samba-releases/releases/download/v1.10.8/Samba-Setup-1.10.8.exe
+sha512: hj+CWE3K2pGzCazGuSY53z9exqAVIohOVS0Ecc1e0QJB69h+h0iNCOZiWs4dC33AAzDEV6xyoHZbGoRf8/AFEw==
+releaseDate: '2026-10-24T18:05:48.467Z'
